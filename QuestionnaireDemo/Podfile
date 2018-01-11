@@ -1,0 +1,7 @@
+platform:ios,'8.0'
+
+target "QuestionnaireDemo" do
+pod 'Masonry'
+pod 'SVProgressHUD'
+end
+
